@@ -1,0 +1,16 @@
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\bin\Debug\projetoPim.exe.config
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\bin\Debug\projetoPim.exe
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\bin\Debug\projetoPim.pdb
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.csprojAssemblyReference.cache
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Properties.Resources.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.csproj.GenerateResource.cache
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.exe
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.pdb
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.frmSystemPlus.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Apresentacao.entradadeveiculos.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Apresentacao.CadastroDeHorista.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Apresentacao.CadastroDeConvênios.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Apresentacao.CadastroDeOperadores.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Apresentacao.Veiculos.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Apresentacao.TelaPrincipal.resources
+C:\Users\(((Vinicius)))\Desktop\SystemPlus\projetoPim\projetoPim\obj\Debug\projetoPim.Apresentacao.Mensalista.resources
